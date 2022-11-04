@@ -9,6 +9,9 @@
    id="svg5"
    inkscape:version="1.2.1 (9c6d41e4, 2022-07-14)"
    sodipodi:docname="rennrad.svg"
+   inkscape:export-filename="rennrad.jpg"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -28,14 +31,14 @@
      units="px"
      inkscape:deskcolor="#d1d1d1"
      borderlayer="true"
-     inkscape:zoom="2"
-     inkscape:cx="385.5"
-     inkscape:cy="618"
-     inkscape:window-width="3440"
-     inkscape:window-height="1416"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
-     inkscape:window-maximized="0"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="310.77343"
+     inkscape:cy="577.35269"
+     inkscape:window-width="1792"
+     inkscape:window-height="977"
+     inkscape:window-x="823"
+     inkscape:window-y="1465"
+     inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
      id="defs2">
@@ -2749,24 +2752,8 @@
        rx="0.1651465"
        transform="matrix(0.99697938,-0.07766667,0.98963241,0.14362341,0,0)" />
     <path
-       style="fill:#1c241c;stroke:#1c241c;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 140.49374,127.79375 h 26.32604"
-       id="path9820" />
-    <path
-       style="fill:#1c241c;stroke:#1c241c;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 141.02291,128.85209 h 26.32604"
-       id="path9822" />
-    <path
-       style="fill:#1c241c;stroke:#1c241c;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 141.55208,129.91043 h 26.32604"
-       id="path9824" />
-    <path
-       style="fill:#1c241c;stroke:#1c241c;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 142.08125,130.96877 h 26.32604"
-       id="path9826" />
-    <path
-       style="fill:#1c241c;stroke:#1c241c;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 142.61042,132.02711 h 26.32604"
+       style="fill:#1c241c;stroke:#1c241c;stroke-width:0.14284px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 142.61042,132.02711 h 7.67292"
        id="path9828" />
     <g
        id="g14420"
@@ -2810,5 +2797,21 @@
          inkscape:path-effect="#path-effect12960"
          inkscape:original-d="m 74.73223,81.328571 c 0.07432,0.1094 0.148378,0.218532 0.222168,0.327406 0.0081,0.238022 0.01586,0.475781 0.02339,0.713274 -0.0075,0.05094 -0.01533,0.101605 -0.02339,0.15201" />
     </g>
+    <path
+       style="fill:#1c241c;stroke:#1c241c;stroke-width:0.145282px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 164.17401,131.00865 h 7.9375"
+       id="path777" />
+    <path
+       style="fill:#1c241c;stroke:#1c241c;stroke-width:0.145282px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 158.35318,129.95032 h 7.9375"
+       id="path779" />
+    <path
+       style="fill:#1c241c;stroke:#1c241c;stroke-width:0.145282px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 147.90215,131.00866 h 7.9375"
+       id="path781" />
+    <path
+       style="fill:#1c241c;stroke:#1c241c;stroke-width:0.145282px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 153.72299,131.93471 h 7.9375"
+       id="path783" />
   </g>
 </svg>
