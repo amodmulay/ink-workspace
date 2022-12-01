@@ -41,6 +41,16 @@
      id="defs2">
     <inkscape:path-effect
        effect="spiro"
+       id="path-effect18089"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect18085"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
        id="path-effect16428"
        is_visible="true"
        lpeversion="1" />
@@ -771,5 +781,49 @@
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 156.23824,141.25743 h 2.71279"
        id="path17214" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 170.25069,173.33765 0.93544,-1.6838 h -1.02899 l -0.74835,0.28063 v 0.46773 l 0.37417,0.8419 z"
+       id="path18095" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 155.47068,172.49575 -0.65481,1.12253 h 1.12253 l 1.21608,-1.40316 -0.8419,-0.46773 z"
+       id="path18097" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 176.33107,163.51549 -0.28063,-1.30962 -0.65481,0.28064 -0.56127,0.74835 0.8419,0.65481 z"
+       id="path18099" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 174.086,159.39954 0.37418,-1.40316 0.46772,0.56127 v 0.84189 z"
+       id="path18101" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 173.15056,160.9898 0.93544,-0.18709 -0.37417,1.30962 -0.56127,-0.65481 z"
+       id="path18103" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 163.79613,174.9279 -0.0935,1.02899 0.8419,-0.18709 0.28063,-0.93544 z"
+       id="path18105" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 177.36006,152.29017 -0.74836,1.87089 0.93544,-0.28063"
+       id="path18107" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 158.55765,169.40879 0.46772,0.93544 0.74835,-0.74836 -0.56126,-0.74835 z"
+       id="path18109" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 165.66701,171.27967 v 0.93545 h 0.8419 l 0.0936,-0.74836 z"
+       id="path18111" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 145.46144,171.84094 0.37417,1.02899 0.56127,-0.93545 -0.56127,-0.74835 z"
+       id="path18113" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 142.18739,169.2217 0.18709,0.93544 0.46772,-0.18709 z"
+       id="path18115" />
   </g>
 </svg>
